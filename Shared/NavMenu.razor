@@ -1,0 +1,139 @@
+﻿@inject NavigationManager navigationManager;
+
+@if (navigationManager.Uri != navigationManager.BaseUri)
+{
+    <nav>
+    <div>
+        <h2>VERTEX</h2>
+    </div>
+    <div>
+        <div class="@DashboardCss" @onclick="NavigateToDashboard">
+            <h4><span class="fa-solid fa-house" /> Dashboard</h4>
+        </div>
+        <div class="@MenuCss" @onclick="NavigateToMenu">
+            <h4><span class="fa-solid fa-carrot" /> Menu</h4>
+        </div>
+        <div class="@EmployeesCss" @onclick="NavigateToEmployees">
+            <h4><span class="fa-solid fa-user-group" /> Empleados</h4>
+        </div>
+        <div class="@OrdersCss" @onclick="NavigateToOrders">
+            <h4><span class="fa-solid fa-bell-concierge" /> Ordenes</h4>
+        </div>
+    </div>
+    <div>
+        <div>
+            <h4>
+            Carlos Vargas
+            </h4>
+        </div>
+        <div>
+            <h4>
+            <span class="fa-solid fa-right-from-bracket"></span>
+            </h4>
+        </div>
+    </div>
+</nav>
+}
+
+
+
+
+@* <div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+    <a class="navbar-brand" href="">VertexWeb</a>
+    <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    </div>
+    </div>
+
+    <div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <nav class="flex-column">
+    <div class="nav-item px-3">
+    <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+    <span class="oi oi-home" aria-hidden="true"></span> Home
+    </NavLink>
+    </div>
+    <div class="nav-item px-3">
+    <NavLink class="nav-link" href="counter">
+    <span class="oi oi-plus" aria-hidden="true"></span> Counter
+    </NavLink>
+    </div>
+    <div class="nav-item px-3">
+    <NavLink class="nav-link" href="fetchdata">
+    <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
+    </NavLink>
+    </div>
+    </nav>
+    </div>
+
+    @code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+    collapseNavMenu = !collapseNavMenu;
+    }
+    } *@
+
+@code {
+
+    public string DashboardCss = "link-nav-active";
+    public string MenuCss = "link-nav";
+    public string EmployeesCss = "link-nav";
+    public string OrdersCss = "link-nav";
+
+    private void ManageStyles() {
+        DashboardCss = "link-nav";
+        MenuCss = "link-nav";
+        EmployeesCss = "link-nav";
+        OrdersCss = "link-nav";
+        
+        if(navigationManager.Uri.Contains("dashboard")) {
+            DashboardCss = "link-nav-active";
+        }
+        else if(navigationManager.Uri.Contains("menu")) {
+            MenuCss = "link-nav-active";
+        }
+        else if(navigationManager.Uri.Contains("employees")) {
+            EmployeesCss = "link-nav-active";
+        }
+        else if(navigationManager.Uri.Contains("orders")) {
+            OrdersCss = "link-nav-active";
+        }
+    }
+
+    private void NavigateToDashboard()
+    {
+        navigationManager.NavigateTo("/dashboard");
+    }
+
+    private void NavigateToMenu()
+    {
+        navigationManager.NavigateTo("/menu");
+    }
+
+    private void NavigateToEmployees()
+    {
+        navigationManager.NavigateTo("/employees");
+    }
+
+    private void NavigateToOrders()
+    {
+        navigationManager.NavigateTo("/orders");
+    }
+
+    private void HandleLocationChanged(object sender, LocationChangedEventArgs e)
+    {
+        ManageStyles();
+        StateHasChanged();
+    }
+
+    protected override void OnInitialized()
+    {
+        ManageStyles();
+        navigationManager.LocationChanged += HandleLocationChanged;
+    }
+}
