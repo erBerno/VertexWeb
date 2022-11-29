@@ -23,28 +23,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Pages/Dashboard.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGFzaGJvYXJkLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Pages/Employees.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW1wbG95ZWVzLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Pages/Menu.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWVudS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Pages/Orders.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3JkZXJzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Shared/SurveyPrompt.razor]
@@ -54,6 +34,30 @@ build_metadata.AdditionalFiles.CssScope =
 [/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Pages/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGFzaGJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-omwin17ub0
+
+[/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Pages/Employees.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW1wbG95ZWVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-xrjl6moakp
+
+[/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-xkmhjjr62m
+
+[/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Pages/Menu.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-ognwzzy4b9
+
+[/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Pages/Orders.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3JkZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-q0xxb6w1qn
+
+[/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jjbheokdsw
 
 [/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=

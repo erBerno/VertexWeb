@@ -25,3 +25,9 @@
 /Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/VertexWeb.pdb
 /Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/VertexWeb.genruntimeconfig.cache
 /Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/ref/VertexWeb.dll
+/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Pages/Dashboard.razor.rz.scp.css
+/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Pages/Employees.razor.rz.scp.css
+/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Pages/Menu.razor.rz.scp.css
+/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Pages/Orders.razor.rz.scp.css
+/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Pages/Register.razor.rz.scp.css

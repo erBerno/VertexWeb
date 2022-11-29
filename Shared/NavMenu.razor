@@ -6,33 +6,36 @@
     <div>
         <h2>VERTEX</h2>
     </div>
-    <div>
-        <div class="@DashboardCss" @onclick="NavigateToDashboard">
-            <h4><span class="fa-solid fa-house" /> Dashboard</h4>
+        @if (!navigationManager.Uri.Contains("register"))
+        {
+                <div>
+                    <div class="@DashboardCss" @onclick="NavigateToDashboard">
+                        <h4><span class="fa-solid fa-house" /> Dashboard</h4>
+                    </div>
+                    <div class="@MenuCss" @onclick="NavigateToMenu">
+                        <h4><span class="fa-solid fa-carrot" /> Menu</h4>
+                    </div>
+                    <div class="@EmployeesCss" @onclick="NavigateToEmployees">
+                        <h4><span class="fa-solid fa-user-group" /> Empleados</h4>
+                    </div>
+                    <div class="@OrdersCss" @onclick="NavigateToOrders">
+                        <h4><span class="fa-solid fa-bell-concierge" /> Ordenes</h4>
+                    </div>
+                </div>
+                <div>
+            <div>
+                <h4>
+                    Carlos Vargas
+                </h4>
+            </div>
+            <div>
+                <h4>
+                    <span class="fa-solid fa-right-from-bracket"></span>
+                </h4>
+            </div>
         </div>
-        <div class="@MenuCss" @onclick="NavigateToMenu">
-            <h4><span class="fa-solid fa-carrot" /> Menu</h4>
-        </div>
-        <div class="@EmployeesCss" @onclick="NavigateToEmployees">
-            <h4><span class="fa-solid fa-user-group" /> Empleados</h4>
-        </div>
-        <div class="@OrdersCss" @onclick="NavigateToOrders">
-            <h4><span class="fa-solid fa-bell-concierge" /> Ordenes</h4>
-        </div>
-    </div>
-    <div>
-        <div>
-            <h4>
-            Carlos Vargas
-            </h4>
-        </div>
-        <div>
-            <h4>
-            <span class="fa-solid fa-right-from-bracket"></span>
-            </h4>
-        </div>
-    </div>
-</nav>
+        }
+    </nav>
 }
 
 
