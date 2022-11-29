@@ -1,5 +1,39 @@
 @page "/dashboard"
 
-<h1>
-    Dashboard
-</h1>
+<div class="dashboard-page">
+    <div>
+        <DashboardCard Title="@d1Title" Subtitle="@d1Subtitle" IconClass="@d1Icon"/>
+        <DashboardCard Title="@d2Title" Subtitle="@d2Subtitle" IconClass="@d2Icon"/>
+        <DashboardCard Title="@d3Title" Subtitle="@d3Subtitle" IconClass="@d3Icon"/>
+        <DashboardCard Title="@d4Title" Subtitle="@d4Subtitle" IconClass="@d4Icon"/>
+        <DashboardCard Title="@d5Title" Subtitle="@d5Subtitle" IconClass="@d5Icon"/>
+        <DashboardCard Title="@d6Title" Subtitle="@d6Subtitle" IconClass="@d6Icon"/>
+    </div>
+</div>
+
+@code{
+    public string d1Title = "Bienvenido Carlos.";
+    public string d1Subtitle = "20 de Diciembre, 2022";
+    public string d1Icon = "fa-solid fa-calendar";
+
+    public string d2Title = "Ordenes de hoy.";
+    public string d2Subtitle = "10";
+    public string d2Icon = "fa-solid fa-cart-shopping";
+
+    public string d3Title = "Empleados activos.";
+    public string d3Subtitle = "10";
+    public string d3Icon = "fa-solid fa-user-tie";
+
+    public string d4Title = "Items en el menu.";
+    public string d4Subtitle = "20";
+    public string d4Icon = "fa-solid fa-utensils";
+
+    public string d5Title = "Total Recaudado hoy.";
+    public string d5Subtitle = "100 Bs";
+    public string d5Icon = "fa-solid fa-sack-dollar";
+
+    public string d6Title = "Ordenes del mes.";
+    public string d6Subtitle = "10";
+    public string d6Icon = "fa-solid fa-chart-line";
+
+}

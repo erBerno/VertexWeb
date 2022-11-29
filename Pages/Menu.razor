@@ -1,5 +1,32 @@
 @page "/menu"
 
-<h1>
-    Menu
-</h1>
+<div class="menu-page">
+    <div class="menu-options-group">
+        <button class="btn">Ver Menu</button>
+        <button class="btn">Agregar producto</button>
+        <button class="btn">Agregar categoria</button>
+    </div>
+    <div class="menu-categories">
+        <Category CategoryName="@category1Name"/>
+        <Category CategoryName="@category2Name"/>
+        <Category CategoryName="@category2Name"/>
+        <Category CategoryName="@category2Name"/>
+    </div>
+    @* <h1 class="menu-tittle">
+        Hamburguesas
+    </h1>
+    <div class="menu-product-list">
+        <MenuItem/>
+        <MenuItem/>
+        <MenuItem/>
+        <MenuItem/>
+        <MenuItem/>
+        <MenuItem/>
+        <MenuItem/>
+    </div> *@
+</div>
+
+@code{
+    public string category1Name = "Hamburguesas";
+    public string category2Name = "Papas";
+}

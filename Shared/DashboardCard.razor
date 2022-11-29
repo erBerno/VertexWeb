@@ -1,0 +1,26 @@
+<div class="dashboard-card">
+    <div>
+        <span class="@IconClass"></span>
+    </div>
+    <div>
+        <h3>
+            @Title
+        </h3>
+        <p>
+            @Subtitle
+        </p>
+    </div>
+</div>
+
+@code{
+    [Parameter]
+    public string? Title { get; set; }
+
+    [Parameter]
+    public string? Subtitle { get; set; }
+
+    [Parameter]
+    public string? IconClass { get; set; }
+
+
+}

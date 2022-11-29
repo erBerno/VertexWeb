@@ -1,3 +1,67 @@
 @page "/register"
+@using System.ComponentModel.DataAnnotations;
 
-<h1>HOLA PERRO</h1>
+@* por ahora ese quitalo
+    <EditForm OnValidSubmit="HandleSubmit"> solo asi
+
+    <div class="user-box">
+    <input type="text" placeholder="Usuario" required />
+    <label>Email</label>
+    </div> esto solo asi por ahora *@
+<EditForm Model="iRegister" OnValidSubmit="HandleSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <div class="form">
+
+        <h3 class="tittle" for="Tittle">Registrar Negocio</h3>
+        
+        <div class="user-box">
+            <input type="text" placeholder="Nombre de Negocio" required @bind="iRegister.InstitutionName" />
+        </div>
+        <div class="user-box">
+            <input type="text" placeholder="Direccion" required @bind="iRegister.Address" />
+        </div>
+        <div class="user-box">
+            <input type="text" placeholder="Ciudad" required @bind="iRegister.City" />
+        </div>
+        <div class="user-box">
+            <input type="text" placeholder="Categoria de Negocio" required @bind="iRegister.Category" />
+        </div>
+        <div class="user-box">
+            <input type="text" placeholder="Foto" required @bind="iRegister.Photo" />
+        </div>
+        <div class="user-box">
+            <input type="text" placeholder="Telefono" required @bind="iRegister.Phone" />
+        </div>
+        <button type="submit"   >Registrar</button>
+    </div>
+</EditForm>
+@code {
+    private InstitutionRegister iRegister = new();
+
+    private async Task HandleSubmit() 
+    {
+        Console.WriteLine("Submit");
+    }
+    public class InstitutionRegister
+    {
+        [Required]
+        public string InstitutionName { get; set; }
+
+        [Required]
+        public string Address { get; set; }
+
+        [Required]
+        public string City { get; set; }
+
+        [Required]
+        public string Category { get; set; }
+
+        [Required]
+        public string Photo { get; set; }
+
+        [Required]
+        public string Phone { get; set; }
+
+    }
+}

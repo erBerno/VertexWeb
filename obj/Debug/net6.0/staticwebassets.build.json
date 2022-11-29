@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m2nE+/fwUfaPxoxSGAXbMSev6eYvBW5zGV5Z5JvGHW0=",
+  "Hash": "PXP1h5uJKAMGjzERvVnn8L4D09UdSe+dbr3+328d84E=",
   "Source": "VertexWeb",
   "BasePath": "_content/VertexWeb",
   "Mode": "Default",
@@ -406,6 +406,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon/site.webmanifest"
+    },
+    {
+      "Identity": "/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/wwwroot/images/employee.jpg",
+      "SourceId": "VertexWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/wwwroot/",
+      "BasePath": "_content/VertexWeb",
+      "RelativePath": "images/employee.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/employee.jpg"
     }
   ]
 }

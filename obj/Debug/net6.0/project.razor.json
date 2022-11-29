@@ -45,6 +45,39 @@
         }
       },
       {
+        "HashCode": -377897444,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Pages.Index",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 935572226,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Pages.Index",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "VertexWeb.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 56752993,
         "Kind": "Components.Component",
         "Name": "VertexWeb.Pages.Dashboard",
@@ -74,6 +107,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "VertexWeb.Pages.Dashboard",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1100201762,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Pages.Register",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Register"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Pages.Register"
+        }
+      },
+      {
+        "HashCode": 270817558,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Pages.Register",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "VertexWeb.Pages.Register"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Pages.Register",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -111,167 +177,35 @@
         }
       },
       {
-        "HashCode": -929873385,
+        "HashCode": -570782719,
         "Kind": "Components.Component",
-        "Name": "VertexWeb.Pages.FetchData",
+        "Name": "VertexWeb.Pages.AddEmployees",
         "AssemblyName": "VertexWeb",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "FetchData"
+            "TagName": "AddEmployees"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VertexWeb.Pages.FetchData"
+          "Common.TypeName": "VertexWeb.Pages.AddEmployees"
         }
       },
       {
-        "HashCode": 33422827,
+        "HashCode": -568007140,
         "Kind": "Components.Component",
-        "Name": "VertexWeb.Pages.FetchData",
+        "Name": "VertexWeb.Pages.AddEmployees",
         "AssemblyName": "VertexWeb",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "VertexWeb.Pages.FetchData"
+            "TagName": "VertexWeb.Pages.AddEmployees"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VertexWeb.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -298608087,
-        "Kind": "Components.Component",
-        "Name": "VertexWeb.Pages.Menu",
-        "AssemblyName": "VertexWeb",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Menu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VertexWeb.Pages.Menu"
-        }
-      },
-      {
-        "HashCode": 817920026,
-        "Kind": "Components.Component",
-        "Name": "VertexWeb.Pages.Menu",
-        "AssemblyName": "VertexWeb",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "VertexWeb.Pages.Menu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VertexWeb.Pages.Menu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1053037111,
-        "Kind": "Components.Component",
-        "Name": "VertexWeb.Pages.Orders",
-        "AssemblyName": "VertexWeb",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Orders"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VertexWeb.Pages.Orders"
-        }
-      },
-      {
-        "HashCode": 65890746,
-        "Kind": "Components.Component",
-        "Name": "VertexWeb.Pages.Orders",
-        "AssemblyName": "VertexWeb",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "VertexWeb.Pages.Orders"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VertexWeb.Pages.Orders",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -377897444,
-        "Kind": "Components.Component",
-        "Name": "VertexWeb.Pages.Index",
-        "AssemblyName": "VertexWeb",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VertexWeb.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 935572226,
-        "Kind": "Components.Component",
-        "Name": "VertexWeb.Pages.Index",
-        "AssemblyName": "VertexWeb",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "VertexWeb.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VertexWeb.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1100201762,
-        "Kind": "Components.Component",
-        "Name": "VertexWeb.Pages.Register",
-        "AssemblyName": "VertexWeb",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Register"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VertexWeb.Pages.Register"
-        }
-      },
-      {
-        "HashCode": 270817558,
-        "Kind": "Components.Component",
-        "Name": "VertexWeb.Pages.Register",
-        "AssemblyName": "VertexWeb",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "VertexWeb.Pages.Register"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "VertexWeb.Pages.Register",
+          "Common.TypeName": "VertexWeb.Pages.AddEmployees",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -487,6 +421,381 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "VertexWeb.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1974002737,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Shared.DashboardCard",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DashboardCard"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Subtitle",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Subtitle"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "IconClass",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "IconClass"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Shared.DashboardCard"
+        }
+      },
+      {
+        "HashCode": -1059139182,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Shared.DashboardCard",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "VertexWeb.Shared.DashboardCard"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Subtitle",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Subtitle"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "IconClass",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "IconClass"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Shared.DashboardCard",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 704836792,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Shared.MenuItem",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MenuItem"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Shared.MenuItem"
+        }
+      },
+      {
+        "HashCode": 1882827315,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Shared.MenuItem",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "VertexWeb.Shared.MenuItem"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Shared.MenuItem",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -629984669,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Shared.OrderCard",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "OrderCard"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Shared.OrderCard"
+        }
+      },
+      {
+        "HashCode": 574826051,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Shared.OrderCard",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "VertexWeb.Shared.OrderCard"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Shared.OrderCard",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -628869378,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Shared.EmployeeCard",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EmployeeCard"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Shared.EmployeeCard"
+        }
+      },
+      {
+        "HashCode": 222483791,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Shared.EmployeeCard",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "VertexWeb.Shared.EmployeeCard"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Shared.EmployeeCard",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1118351228,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Shared.AddEmployee",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AddEmployee"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Shared.AddEmployee"
+        }
+      },
+      {
+        "HashCode": 158061841,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Shared.AddEmployee",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "VertexWeb.Shared.AddEmployee"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Shared.AddEmployee",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2133426746,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Shared.Category",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Category"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "CategoryName",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "CategoryName"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Shared.Category"
+        }
+      },
+      {
+        "HashCode": -35560398,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Shared.Category",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "VertexWeb.Shared.Category"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "CategoryName",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "CategoryName"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Shared.Category",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -153203063,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Shared.Dialog",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Dialog"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Caption",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Caption"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Message",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Message"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClose",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Boolean>",
+            "Metadata": {
+              "Common.PropertyName": "OnClose",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Type",
+            "TypeName": "VertexWeb.Shared.Dialog.Category",
+            "IsEnum": true,
+            "Metadata": {
+              "Common.PropertyName": "Type"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Shared.Dialog"
+        }
+      },
+      {
+        "HashCode": -372303283,
+        "Kind": "Components.Component",
+        "Name": "VertexWeb.Shared.Dialog",
+        "AssemblyName": "VertexWeb",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "VertexWeb.Shared.Dialog"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Caption",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Caption"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Message",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Message"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnClose",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Boolean>",
+            "Metadata": {
+              "Common.PropertyName": "OnClose",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Type",
+            "TypeName": "VertexWeb.Shared.Dialog.Category",
+            "IsEnum": true,
+            "Metadata": {
+              "Common.PropertyName": "Type"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "VertexWeb.Shared.Dialog",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16777,6 +17086,11 @@
   "RootNamespace": "VertexWeb",
   "Documents": [
     {
+      "FilePath": "/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Shared/Dialog.razor",
+      "TargetPath": "Shared\\Dialog.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Pages/_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
@@ -16802,6 +17116,16 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Pages/AddEmployees.razor",
+      "TargetPath": "Pages\\AddEmployees.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Shared/Category.razor",
+      "TargetPath": "Shared\\Category.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Pages/Menu.razor",
       "TargetPath": "Pages\\Menu.razor",
       "FileKind": "component"
@@ -16817,6 +17141,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Shared/MenuItem.razor",
+      "TargetPath": "Shared\\MenuItem.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Shared/NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
@@ -16827,8 +17156,13 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Pages/FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
+      "FilePath": "/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Shared/EmployeeCard.razor",
+      "TargetPath": "Shared\\EmployeeCard.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Shared/OrderCard.razor",
+      "TargetPath": "Shared\\OrderCard.razor",
       "FileKind": "component"
     },
     {
@@ -16854,6 +17188,11 @@
     {
       "FilePath": "/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Pages/Orders.razor",
       "TargetPath": "Pages\\Orders.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/Shared/DashboardCard.razor",
+      "TargetPath": "Shared\\DashboardCard.razor",
       "FileKind": "component"
     }
   ],

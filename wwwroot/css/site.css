@@ -16,6 +16,7 @@ html, body {
     font-family: var(--secondary-font);
     background-color: var(--main-background-color);
     color: var(--secondary-font-color);
+    overflow: hidden;
 }
 
 h1:focus {
@@ -76,3 +77,37 @@ a, .btn-link {
     .blazor-error-boundary::after {
         content: "An error has occurred."
     }
+
+input {
+    background-color: var(--purple-light);
+    padding: 10px;
+    border-radius: 10px;
+    border: 0;
+    font-size: 1.5rem;
+    color: var(--main-font-color);
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -ms-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    transition: all .2s ease-out
+}
+
+input:focus{
+    outline: none;
+    background-color: transparent;
+    border: 2px solid var(--purple-light);
+    color: var(--purple-light);
+}
+
+*:focus{
+    outline: none;
+}
+button:focus{
+    outline: none;
+    box-shadow: 0 0 0 0.25rem var(--purple-main) !important;
+    background-color: var(--purple-light) !important;
+}
+
+input ::placeholder{
+    color: var(--secondary-font-color);
+}

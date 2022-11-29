@@ -1,5 +1,69 @@
 @page "/orders"
+<div class="orders-page">
+    <div class="top-buttons">
+        <button class="btn">Ordenes Entrantes</button>
+        <button class="btn">Ordenes para Entregar</button>
+        <button class="btn">Ordenes Finalizados</button>
+    </div>
+    <div class="order-section">
+        <div class="order-section-1">
+            <h2>ENTRANTES</h2>
+            <div class="orders">
+                <button>Orden 1</button>
+                <button>Orden 2</button>
+            </div>
+        </div>
+        <div class="order-section-2">
+            <OrderCard />
+            <OrderCard />
+        </div>
+        <div class="order-section-3">
+            <div class="title-section">
+                <h2>DETALLES</h2>
+            </div>
+            <div class="order-details">
+                <table>
+                    <tr>
+                        <td>Cliente</td>
+                        <td>Estiven Rojas</td>
+                    </tr>
+                    <tr>
+                        <td>NIT</td>
+                        <td>6969420</td>
+                    </tr>
+                    <tr>
+                        <td>Tipo</td>
+                        <td>En Mesa</td>
+                    </tr>
+                    <tr>
+                        <td>Subtotal</td>
+                        <td>500</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="buttons">
+                <button class="btn-accept">ACEPTAR</button>
+                <button class="btn-deny">DENEGAR</button>
+            </div>
+        </div>
+    </div>
+</div>
 
-<h1>
-    Orders
-</h1>
+@code {
+    int tab = 1;
+
+    private void OnClick1()
+    {
+        tab = 1;
+    }
+
+    private void OnClick2()
+    {
+        tab = 2;
+    }
+
+    private void OnClick3()
+    {
+        tab = 3;
+    }
+}

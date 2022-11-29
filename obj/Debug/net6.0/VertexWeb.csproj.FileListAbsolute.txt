@@ -31,3 +31,9 @@
 /Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Pages/Menu.razor.rz.scp.css
 /Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Pages/Orders.razor.rz.scp.css
 /Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Pages/Register.razor.rz.scp.css
+/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Shared/Dialog.razor.rz.scp.css
+/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Shared/DashboardCard.razor.rz.scp.css
+/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Shared/MenuItem.razor.rz.scp.css
+/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Shared/OrderCard.razor.rz.scp.css
+/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Shared/EmployeeCard.razor.rz.scp.css
+/Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Shared/Category.razor.rz.scp.css
