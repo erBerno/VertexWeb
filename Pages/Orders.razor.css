@@ -85,6 +85,10 @@
     background-color: var(--purple-main);
 }
 
+::deep .orders button:active {
+    background-color: var(--purple-main);
+}
+
 .order-section-3{
     width: 20%;
     height: 90%;

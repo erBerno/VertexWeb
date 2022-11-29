@@ -10,6 +10,10 @@
     block-size: 15vh;
     border-radius: 5px;
 }
+.menu-list-item-img img {
+    width: 15vh;
+    height: 15vh;
+}
 .menu-list-item-info {
     flex-direction: column;
     justify-content: space-between;

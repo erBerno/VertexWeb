@@ -37,3 +37,43 @@
 /Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Shared/OrderCard.razor.rz.scp.css
 /Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Shared/EmployeeCard.razor.rz.scp.css
 /Users/blvckcenturion/Dev/University/IntegrationalProject/VertexWeb/obj/Debug/net6.0/scopedcss/Shared/Category.razor.rz.scp.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\bin\Debug\net6.0\appsettings.Development.json
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\bin\Debug\net6.0\appsettings.json
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\bin\Debug\net6.0\VertexWeb.staticwebassets.runtime.json
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\bin\Debug\net6.0\VertexWeb.exe
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\bin\Debug\net6.0\VertexWeb.deps.json
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\bin\Debug\net6.0\VertexWeb.runtimeconfig.json
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\bin\Debug\net6.0\VertexWeb.dll
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\bin\Debug\net6.0\VertexWeb.pdb
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\VertexWeb.csproj.AssemblyReference.cache
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\VertexWeb.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\VertexWeb.AssemblyInfoInputs.cache
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\VertexWeb.AssemblyInfo.cs
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\VertexWeb.csproj.CoreCompileInputs.cache
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\VertexWeb.MvcApplicationPartsAssemblyInfo.cache
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\VertexWeb.RazorAssemblyInfo.cache
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\VertexWeb.RazorAssemblyInfo.cs
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\staticwebassets.build.json
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\staticwebassets.development.json
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\scopedcss\Pages\AddEmployees.razor.rz.scp.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\scopedcss\Pages\Dashboard.razor.rz.scp.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\scopedcss\Pages\Employees.razor.rz.scp.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\scopedcss\Pages\Menu.razor.rz.scp.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\scopedcss\Pages\Orders.razor.rz.scp.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\scopedcss\Pages\Register.razor.rz.scp.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\scopedcss\Shared\Category.razor.rz.scp.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\scopedcss\Shared\DashboardCard.razor.rz.scp.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\scopedcss\Shared\Dialog.razor.rz.scp.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\scopedcss\Shared\EmployeeCard.razor.rz.scp.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\scopedcss\Shared\MenuItem.razor.rz.scp.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\scopedcss\Shared\OrderCard.razor.rz.scp.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\scopedcss\bundle\VertexWeb.styles.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\scopedcss\projectbundle\VertexWeb.bundle.scp.css
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\VertexWeb.dll
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\refint\VertexWeb.dll
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\VertexWeb.pdb
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\VertexWeb.genruntimeconfig.cache
+F:\Proyectos Progra Web III\PROYECTO INTEGRADOR\VertexWeb\obj\Debug\net6.0\ref\VertexWeb.dll
